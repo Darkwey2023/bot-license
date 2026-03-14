@@ -18,5 +18,9 @@
     "2998792be59397180da0a194acb2b111d87dc08d0578c4f3648ba6e92aa6b4de": {
         "welcome": "Heyoo <3",
         "expiry": "never"
+    },
+    "98792be59397180da0a194acb2b111d87dc08d0578c4f3648ba6e92aa6b4de": {
+        "expiry": "2029-02-15",
+        "welcome_message": null
     }
 }
