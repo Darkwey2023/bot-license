@@ -19,4 +19,8 @@
         "welcome": "Heyoo <3",
         "expiry": "never"
     },
+    "632a1135f3d2087819bb62b7ce1e9455371b8452b0af8609eccaf597aa2111": {
+        "expiry": "2025-03-10",
+        "welcome_message": null
+    }
 }
