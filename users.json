@@ -3,7 +3,10 @@
         "welcome": "\ud83d\udc51 Welcome Dark",
         "expiry": "15-3-2026"
     },
-    "49639d1adbd9a694829cfb32c159e29d47de26a27f5857f19722577eb6b79d4e": "2007-04-05",
+    "49639d1adbd9a694829cfb32c159e29d47de26a27f5857f19722577eb6b79d4e": {
+        "expiry": "2005-06-18",
+        "welcome": null
+    },
     "f3c0921e63723452c449b905928d9f611a8503ed2c2ce6b4db421c4d01731920": {
         "welcome": "Welcome IRAK \ud83d\ude0e\ud83d\udd25",
         "expiry": "never"
